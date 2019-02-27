@@ -2,12 +2,13 @@
 
 load_exif.py
 
-Parameters:<br>
-    infiles: list of filename (can be absolutely or relatively pathed) provided on the command line
+Parameters:<br><br>
+    <ul>
+    
+    <li>infiles: list of filename (can be absolutely or relatively pathed) provided on the command line</li>
     <br>
-    camera positions:  expects a file called 'CameraPositions.txt' that is comma delimited.  First line
-    of file is input projection (ala EPSG:32606) and remaining lines are of the form
-    imageFilename,easting,northing,height
+    <br>
+    <li>camera positions:  expects a file called 'CameraPositions.txt' that is comma delimited.  First line of file is input projection (ala EPSG:32606) and remaining lines are of the form imageFilename,easting,northing,height</li>
 
 
 Requires:
