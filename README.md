@@ -15,7 +15,8 @@ pyproj needs to be installed for projection transformations
     
 exif.py (from https://gist.github.com/c060604/8a51f8999be12fc2be498e9ca56adc72)
         - exif.py is also included in this repo since it must be present for load_exif.py, however, I 
-        claim no ownership of it nor do I guarantee the result
+        claim no ownership of it nor do I guarantee the result.  This file is also not covered by the GPL of this 
+        repo since I do not own it.  
 
 
 Usage:
